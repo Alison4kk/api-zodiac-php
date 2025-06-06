@@ -1,10 +1,7 @@
 <?php 
-
 echo "Teste GET /signos\n";
+$response = file_get_contents("http://api:8000/signos");
+$data = json_decode($response, true);
+assert(count($data)===12);
 
-$response  = file_get_contents('http://localhost:8000/signo');
-$dados = json_decode($response, true);
-
-assert(count($dados) === 12, 'Deveria retornar 12 signos');
-
-echo "Teste GET /signos - OK\n";
+echo "Todos os testes passaram com sucesso.\n";
