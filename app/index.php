@@ -3,6 +3,7 @@
 error_reporting(E_ERROR); // E_WARNING | E_PARSE | E_NOTICE);
 
 require 'converter.php';
+require 'servicos_financeiros.php';
 
 header('Content-Type: application/json');
 
@@ -39,6 +40,11 @@ if ($uri === '/converter' && $_SERVER['REQUEST_METHOD'] === 'GET') {
   }
   exit;
 } 
+
+if ($uri === '/servicos_financeiros' && $_SERVER['REQUEST_METHOD'] === 'GET') {
+  echo json_encode(servicosFinanceiros());
+  exit;
+}
 
 http_response_code(404);
 echo json_encode(['error' => 'Rota não encontrada']);
