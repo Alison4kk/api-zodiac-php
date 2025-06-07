@@ -36,3 +36,19 @@ Converte um valor de uma moeda para outra.
 }
 
 ```
+
+
+## Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Alison4kk/currency-online-api.git
+    ```
+
+2. Iniciar container 
+    ```bash
+    docker compose up -d
+    ```
+
+
+3. Acesse a API em `http://localhost:8000`.
