@@ -1,4 +1,5 @@
 <?php 
+
 echo "Teste GET /converter 1\n";
 $resposta = file_get_contents("http://api:8000/converter?origem=usd&destino=usd&valor=10");
 $dados = json_decode($resposta, true);
