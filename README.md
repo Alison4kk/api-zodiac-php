@@ -53,3 +53,7 @@ Converte um valor de uma moeda para outra.
 
 
 3. Acesse a API em `http://localhost:8000`.
+
+Ex.:
+- http://localhost:8000/converter?origem=brl&destino=usd&valor=10
+- http://localhost:8000/status
