@@ -1,0 +1,122 @@
+[
+  {
+    "id_servico": "FIN_CONTA_DIGITAL_001",
+    "nome_servico": "Conta Digital Inteligente",
+    "descricao": "Conta corrente digital sem taxas, com rendimento automático e cartão de crédito integrado.",
+    "publico_alvo": "Pessoas Físicas",
+    "taxas_principais": "Gratuita para manutenção e transferências TED/PIX.",
+    "beneficios_chave": [
+      "Rendimento superior à poupança",
+      "Cartão internacional",
+      "Atendimento 24/7"
+    ]
+  },
+  {
+    "id_servico": "FIN_INVEST_P2P_002",
+    "nome_servico": "Plataforma de Empréstimo P2P",
+    "descricao": "Invista em empréstimos para pequenas empresas e obtenha retornos atrativos.",
+    "publico_alvo": "Investidores e Pequenas Empresas",
+    "taxas_principais": "Taxa de administração sobre o retorno do investimento.",
+    "beneficios_chave": [
+      "Diversificação de portfólio",
+      "Apoio a negócios locais",
+      "Potencial de alta rentabilidade"
+    ]
+  },
+  {
+    "id_servico": "FIN_CARTAO_CREDITO_003",
+    "nome_servico": "Cartão de Crédito Internacional",
+    "descricao": "Cartão de crédito sem anuidade, aceito em milhares de estabelecimentos no mundo todo.",
+    "publico_alvo": "Pessoas Físicas",
+    "taxas_principais": "Sem anuidade, juros rotativos de 8% ao mês.",
+    "beneficios_chave": [
+      "Programa de pontos",
+      "Cashback em compras",
+      "Cartão virtual para compras online"
+    ]
+  },
+  {
+    "id_servico": "FIN_SEGURO_VIDA_004",
+    "nome_servico": "Seguro de Vida Flexível",
+    "descricao": "Seguro de vida com cobertura personalizada e assistência 24 horas.",
+    "publico_alvo": "Pessoas Físicas e Famílias",
+    "taxas_principais": "Mensalidade a partir de R$ 19,90.",
+    "beneficios_chave": [
+      "Cobertura para doenças graves",
+      "Assistência funeral",
+      "Indenização por invalidez"
+    ]
+  },
+  {
+    "id_servico": "FIN_CONTA_EMPRESA_005",
+    "nome_servico": "Conta PJ Digital",
+    "descricao": "Conta digital para empresas com gestão financeira integrada e emissão de boletos.",
+    "publico_alvo": "Empresas e MEIs",
+    "taxas_principais": "Gratuita para manutenção, tarifas reduzidas para boletos.",
+    "beneficios_chave": [
+      "Gestão de cobranças",
+      "Cartão corporativo",
+      "Integração com sistemas ERP"
+    ]
+  },
+  {
+    "id_servico": "FIN_INVEST_CDB_006",
+    "nome_servico": "CDB com Liquidez Diária",
+    "descricao": "Investimento em CDB com resgate a qualquer momento e rendimento superior à poupança.",
+    "publico_alvo": "Pessoas Físicas",
+    "taxas_principais": "Sem taxas de administração.",
+    "beneficios_chave": [
+      "Liquidez diária",
+      "Proteção FGC",
+      "Rendimento acima da poupança"
+    ]
+  },
+  {
+    "id_servico": "FIN_PREVIDENCIA_007",
+    "nome_servico": "Previdência Privada Digital",
+    "descricao": "Plano de previdência privada com portabilidade e gestão online.",
+    "publico_alvo": "Pessoas Físicas",
+    "taxas_principais": "Taxa de administração de 1% ao ano.",
+    "beneficios_chave": [
+      "Portabilidade gratuita",
+      "Gestão online",
+      "Simulação de aposentadoria"
+    ]
+  },
+  {
+    "id_servico": "FIN_FINANCIAMENTO_008",
+    "nome_servico": "Financiamento Imobiliário Online",
+    "descricao": "Solicite e acompanhe seu financiamento imobiliário 100% online.",
+    "publico_alvo": "Pessoas Físicas",
+    "taxas_principais": "Taxas a partir de 7% ao ano.",
+    "beneficios_chave": [
+      "Simulação instantânea",
+      "Acompanhamento digital",
+      "Menos burocracia"
+    ]
+  },
+  {
+    "id_servico": "FIN_SEGURO_AUTO_009",
+    "nome_servico": "Seguro Auto Digital",
+    "descricao": "Seguro automotivo com contratação e assistência totalmente digitais.",
+    "publico_alvo": "Proprietários de veículos",
+    "taxas_principais": "Mensalidade variável conforme perfil.",
+    "beneficios_chave": [
+      "Assistência 24h",
+      "Cobertura contra roubo e furto",
+      "Aplicativo para acionamento rápido"
+    ]
+  },
+  {
+    "id_servico": "FIN_CONSULTORIA_010",
+    "nome_servico": "Consultoria Financeira Online",
+    "descricao": "Acesso a consultores financeiros certificados para planejamento e investimentos.",
+    "publico_alvo": "Pessoas Físicas e Jurídicas",
+    "taxas_principais": "Primeira consulta gratuita, demais sob demanda.",
+    "beneficios_chave": [
+      "Atendimento personalizado",
+      "Plano financeiro completo",
+      "Acompanhamento mensal"
+    ]
+  }
+]
