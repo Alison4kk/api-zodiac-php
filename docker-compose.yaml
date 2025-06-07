@@ -10,4 +10,4 @@ services:
     build: .
     depends_on:
       - api
-    entrypoint: ["php", "testes/test_signos.php"]
+    entrypoint: ["php", "testes/test_converter.php"]

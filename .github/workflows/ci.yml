@@ -1,4 +1,4 @@
-name: CI - API Zodiac PHP
+name: CI - Currency Online API
 
 on:
   push:
@@ -21,4 +21,4 @@ jobs:
         run: |
           docker-compose up -d --build
           sleep 5
-          docker-compose run --rm api php testes/test_signos.php
+          docker-compose run --rm api php testes/test_converter.php
