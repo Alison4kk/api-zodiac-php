@@ -43,6 +43,7 @@ Converte um valor de uma moeda para outra.
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Alison4kk/currency-online-api.git
+   cd currency-online-api
     ```
 
 2. Iniciar container 
